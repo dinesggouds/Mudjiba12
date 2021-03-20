@@ -15,5 +15,6 @@ Buat RDP Windows gratis dari website Github:
 + Refresh Web dan masuk ke CI> build
 + Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
 
-JANGAN LUPA LIKE ANDA SUBSCRIBE CHANNEL SURYONO MUDJIBA
-https://www.youtube.com/channel/UC3k5Cndh4BRT1M-6uVGag3w
+JANGAN LUPA LIKE ANDA SUBSCRIBE CHANNEL Noob tricky
+
+https://www.youtube.com/noobtricky
